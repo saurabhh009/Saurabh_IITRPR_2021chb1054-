@@ -1,0 +1,22 @@
+.topnav {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 40px; /* Adjust the size of your logo */
+    height: auto;
+  }
+  
+  .notification-icon img {
+    width: 30px; /* Adjust the size of your notification icon */
+    height: auto;
+  }
+  
+  .nav-item {
+    margin-right: 20px; /* Adjust spacing between items */
+  }
+  
+  .active {
+    font-weight: bold; /* Style for active link */
+  }
